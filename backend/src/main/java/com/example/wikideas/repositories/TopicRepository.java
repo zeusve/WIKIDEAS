@@ -1,4 +1,4 @@
-package com.example.wikideas.repository;
+package com.example.wikideas.repositories;
 
 import com.example.wikideas.entities.Topic;
 import org.springframework.data.jpa.repository.JpaRepository;

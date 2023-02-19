@@ -1,4 +1,4 @@
-package com.example.wikideas.controller;
+package com.example.wikideas.controllers;
 
 import com.example.wikideas.entities.Topic;
 import com.example.wikideas.services.TopicService;

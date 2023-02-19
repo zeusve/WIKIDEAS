@@ -1,7 +1,7 @@
 package com.example.wikideas.services;
 
 import com.example.wikideas.entities.Topic;
-import com.example.wikideas.repository.TopicRepository;
+import com.example.wikideas.repositories.TopicRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
